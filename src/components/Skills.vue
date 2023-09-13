@@ -12,7 +12,7 @@ const selectedCar = ref(0);
       <div class="skills-container">
         <div class="skills-text">
           <h2 data-aos="fade-down" data-aos-duration="1500" class="title">Habilidades</h2>
-          <h3 data-aos="fade-up" data-aos-duration="1000">Esses são meus conhecimentos em tecnologia web.</h3>
+          <h3 data-aos="fade-up" data-aos-duration="1000">Esses são meus conhecimentos em Tecnologia Web.</h3>
         </div>
         <div id="skills-tech">
           <div data-aos="zoom-out" class="skills-swiper" ref="swiper">
