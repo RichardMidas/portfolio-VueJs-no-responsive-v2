@@ -8,7 +8,7 @@ AOS.init();
     <div class="about-me-left">
       <div class="about-container" data-aos="fade-right" data-aos-duration="1500">
         <div class="welcome">
-          <p>Bem-vindo(a) ao meu Portfólio</p>
+          <p>Bem-vindo(a) ao meu Portifólio</p>
         </div>
         <div class="about-h1">
           <h1>Oi! Eu sou Richard <span>“Midas”</span></h1>
