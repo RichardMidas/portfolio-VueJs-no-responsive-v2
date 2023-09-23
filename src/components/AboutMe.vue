@@ -20,7 +20,7 @@ AOS.init();
         <h3>Sou desenvolvedor web, atualmente focado em Front-end. <br>
           Tenho experiência com Freelancer e projetos pessoais. <br>
           Estudo um pouco de Back-end com a finalidade de um dia <br>
-          me tornar Programador FullStack.</h3>
+          me tornar um Programador FullStack.</h3>
       </div>
     </div>
     <div class="about-me-right">
